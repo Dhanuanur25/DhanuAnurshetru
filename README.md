@@ -1,4 +1,3 @@
-# Dhanu Anurshetru
 # 👋 Hey there, I'm Dhanu Anurshetru!
 
 🎓 MS in Business Analytics @ University at Buffalo (GPA: 3.93)  
@@ -27,3 +26,10 @@ Key Courses: Predictive Analytics, Cloud DW, Applied AI, Data Viz
 
 🎓 **Visvesvaraya Technological University**  
 *BE, Computer Science (2017–2021)*
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: dhanuanur25@gmail.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dhanu-anurshetru-230285199)  
+- 📁 [Resume](https://github.com/DhanuAnurshetru/DhanuAnurshetru/blob/main/Dhanu_Anurshetru_Analyst.pdf)
