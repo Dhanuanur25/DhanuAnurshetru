@@ -5,6 +5,18 @@
 📍 Based in Buffalo, NY | Open to Data Analyst & BI Opportunities
 
 ---
+
+## 🔧 Tech Toolbox
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+
+---
+
 ## 💼 Professional Experience
 
 ### 🏥 UBMD | Project Analyst Intern (Jan 2025 – May 2025)
