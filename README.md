@@ -49,8 +49,6 @@ Key Courses: Predictive Analytics, Cloud DW, Applied AI, Data Viz
 ## Let's Connect
 -  Email: dhanuanur25@gmail.com  
 -  LinkedIn: [LinkedIn](https://www.linkedin.com/in/dhanu-anurshetru-230285199)  
-#   Resume: [Resume](https://github.com/DhanuAnurshetru/DhanuAnurshetru/blob/main/Dhanu_Anurshetru_Analyst.pdf)
-
 
 ---
 
