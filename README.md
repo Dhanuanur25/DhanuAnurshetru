@@ -1,4 +1,4 @@
-# 👋 Dhanu Anurshetru
+# Dhanu Anurshetru
 
 🎓 MS in Business Analytics @ University at Buffalo (GPA: 3.93)  
 💼 3+ years in Data Analytics | SQL | Python | Tableau | Power BI  
