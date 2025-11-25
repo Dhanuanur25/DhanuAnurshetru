@@ -8,30 +8,30 @@
 
 ## ⚙️ Tech Toolbox
 
-**🧠 Languages & Scripting**: Python | R | SQL | Shell Scripting  
-**🗃️ Databases & Warehousing**: Oracle | MySQL | Snowflake | BigQuery  
-**🧰 ETL & Workflow Tools**: Apache Hop | dbt | AWS Glue | Airflow  
-**📊 BI & Visualization**: Power BI | Tableau | Excel  
-**📚 Data Science Libraries**: pandas | NumPy | seaborn | matplotlib | scikit-learn | OpenAI | LlamaIndex  
-**☁️ Cloud & Dev Tools**: Oracle Cloud | AWS | Streamlit | FastAPI  
-**🛠️ IDEs & Utilities**: Jupyter | SQL Developer | DBeaver | Linux
+**Languages & Scripting**: Python | R | SQL | Shell Scripting  
+**Databases & Warehousing**: Oracle | MySQL | Snowflake | BigQuery  
+**ETL & Workflow Tools**: Apache Hop | dbt | AWS Glue | Airflow  
+**BI & Visualization**: Power BI | Tableau | Excel  
+**Data Science Libraries**: pandas | NumPy | seaborn | matplotlib | scikit-learn | OpenAI | LlamaIndex  
+**Cloud & Dev Tools**: Oracle Cloud | AWS | Streamlit | FastAPI  
+**IDEs & Utilities**: Jupyter | SQL Developer | DBeaver | Linux
  
 
 ---
 
 ## 💼 Work Experience
 
-### 🏥 Project Analyst Intern, University at Buffalo  
-*Jan 2025 – May 2025*  
-- ⏱️ Reduced physician lookup time by 86% with a smart query-based search tool.  
-- 💸 Built an Excel-based cost-benefit model for 12+ surgeons, forecasting $50K–$150K in potential uplift.  
-- 🌽 Designed Power BI dashboards for a local farm, boosting repeat visits by 25%.
+### 🏥 Project Analyst, University at Buffalo  
+*Aug 2024 – May 2025*  
+- Reduced physician lookup time by 86% with a smart query-based search tool.  
+- Built an Excel-based cost-benefit model for 12+ surgeons, forecasting $50K–$150K in potential uplift.  
+- Designed Power BI dashboards for a local farm, boosting repeat visits by 25%.
 
 ### 📡 Data Analyst, Subex  
 *Aug 2021 – May 2024*  
-- 🧾 Analyzed 10M+ telecom records to flag anomalies, reduce incidents, and save $1M+ annually.  
-- 📊 Created automated SQL pipelines and visual dashboards for fraud detection and reporting.  
-- 🏆 Awarded “Agile Surfer” for slashing aged ticket backlog across 5 European clients.
+- Analyzed 10M+ telecom records to flag anomalies, reduce incidents, and save $1M+ annually.  
+- Created automated SQL pipelines and visual dashboards for fraud detection and reporting.  
+- Awarded “Agile Surfer” for slashing aged ticket backlog across 5 European clients.
 
 ---
 
@@ -61,7 +61,7 @@
 
 ## 📬 Let's Connect  
 📧 dhanuanur25@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/dhanu-anurshetru-230285199)  
+🔗 [LinkedIn](https://www.linkedin.com/in/dhanu-anurshetru/)  
 📂 [Project Portfolio](https://github.com/Dhanuanur25)
 
 ---
